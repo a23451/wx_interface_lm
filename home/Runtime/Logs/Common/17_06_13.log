@@ -1,0 +1,12 @@
+[ 2017-06-13T10:01:50+08:00 ] ::1 /wxx/download/timg-1-300x250.jpg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Download
+
+[ 2017-06-13T10:03:06+08:00 ] ::1 /wxx/download/timg-1-300x250.jpg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Download
+
